@@ -24,7 +24,7 @@ def concatenate_csv_files(directory, output_file):
     print(f"Concatenated data written to {output_file}")
 
 # Example usage:
-input_directory = './data/P12/supersapiens/'
-output_csv = './data/P12/supersapiens/merged.csv'
+input_directory = './data/P10/supersapiens/'
+output_csv = './data/P10/supersapiens/merged.csv'
 
 concatenate_csv_files(input_directory, output_csv)
