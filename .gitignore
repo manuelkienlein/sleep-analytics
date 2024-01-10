@@ -1,2 +1,4 @@
 .venv
 analytics/.venv
+**/.DS_Store
+analytics/.ipynb_checkpoints
